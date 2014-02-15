@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = "awsquery"
-  s.version     = "0.3.2"
+  s.version     = "0.3.3"
   s.authors     = ["Lachlan Donald"]
   s.email       = ["lachlan@ljd.cc"]
   s.homepage    = "http://github.com/lox/awsquery"
